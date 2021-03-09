@@ -1,4 +1,4 @@
-Week 2 Journal
+
 <details closed>
 <summary>
 Week 2 Journal
